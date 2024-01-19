@@ -1,5 +1,9 @@
 # JSON-SERVER
 #when you want deploy your project with json-server on vercel or render mayby you will have problems to run your application becouse you use json server and need run this server to load your data for this reson you can use this code and create your endpoint to get post and other http requests
+
+
+source:
+https://ivo-culic.medium.com/create-restful-api-with-json-server-and-deploy-it-to-vercel-d56061c1157a
 * Create a folder
 ```
 mkdir json-server
