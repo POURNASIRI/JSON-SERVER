@@ -1,10 +1,9 @@
-# projectname-mock-api
-
-#### Prerequisite
+# JSON-SERVER
+#when you want deploy your project with json-server on vercel or render mayby you will have problems to run your application becouse you use json server and need run this server to load your data for this reson you can use this code and create your endpoint to get post and other http requests
 * Create a folder
 ```
-mkdir <projectname>-mock-api
-cd <projectname>-mock-api
+mkdir json-server
+cd json-server
 ```
 
 #### Step 1: Create a node js project
